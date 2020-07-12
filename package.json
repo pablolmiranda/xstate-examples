@@ -1,0 +1,23 @@
+{
+  "name": "xstate-examples",
+  "version": "0.0.1",
+  "description": "A collection of examples for XState",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablolmiranda/xstate-examples.git"
+  },
+  "keywords": [
+    "xstate",
+    "javascript"
+  ],
+  "author": "Pablo Lacerda de Miranda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pablolmiranda/xstate-examples/issues"
+  },
+  "homepage": "https://github.com/pablolmiranda/xstate-examples#readme"
+}
